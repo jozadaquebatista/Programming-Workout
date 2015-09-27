@@ -1,1 +1,1 @@
-Código para copiar byte a byte uma imagem. Ideia muito útil para transferir arquivos pela rede.
+Código para copiar bit a bit uma imagem. Ideia muito útil para transferir arquivos pela rede.
